@@ -46,7 +46,7 @@ MDE for detection and response.
 | **1. Preparation**      | Onboarded VM to MDE, set up Log Analytics, verified Sentinel connection          |
 | **2. Detection & Analysis** | Created detection rules, triggered alert using simulated unauthorized Tor usage |
 | **3. Containment**      | Used MDE to isolate the device and cut off further activity                      |
-| **4. Recovery**         | —-----                                                                           |
+| **4. Recovery**         | Released VM from isolation after verifying no persistent threats; validated system integrity via Defender scans |                                                                      |
 
 ---
 
