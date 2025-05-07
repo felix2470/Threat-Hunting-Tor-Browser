@@ -274,7 +274,7 @@ DeviceNetworkEvents
   ---
 
  ## Summary
-The user "terry-vm" on the "terry" device initiated and completed the installation of the TOR browser.  then proceeded to launch the browser,
+The user "terry-vm" on the "terry-vm" device initiated and completed the installation of the TOR browser.  then proceeded to launch the browser,
 establish connections within the TOR network, and created various files related to TOR on their desktop,
 This sequence of activities indicates that the user actively installed, configured, and used the TOR browser, likely for anonymous browsing purposes
 
